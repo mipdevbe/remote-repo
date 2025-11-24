@@ -1,1 +1,3 @@
+#merge-conflict
 Ceci est un document mis a jour dans la branche main.
+Ceci est un document mis a jour dans la branche feature.
